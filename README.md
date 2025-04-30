@@ -1,1 +1,1 @@
-Concatenated dynamic decoupling project for System-Bath Hamiltoniane environmental errors.
+Concatenated dynamic decoupling project for System-Bath Hamiltonian environmental errors.
